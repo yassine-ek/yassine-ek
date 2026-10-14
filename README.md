@@ -1,6 +1,6 @@
 # Yassine EL KORAICHI
 
-Étudiant en M1 MBFA (Université Paris Nanterre), après une licence MIASHS à Grenoble. **Je cherche un stage ou une alternance en trading algorithmique ou en recherche quantitative.**
+Étudiant en M1 Économétrie & Statistique à l'AMSE (Aix-Marseille School of Economics), major de promotion en licence MIASHS à Grenoble (L3, 1/31). **Je cherche un stage d'été 2027 (mai – août) en trading algorithmique, quant trading ou assistant trader.**
 Six projets de finance de marché quantitative : chacun donne son résultat avec sa réserve, et les résultats négatifs sont publiés.
 
 **Tableaux de bord interactifs :** [market making](https://yassine-ek.github.io/fx-market-making-simulator/) · [exécution](https://yassine-ek.github.io/fx-optimal-execution-tca/) · [recherche d'alpha](https://yassine-ek.github.io/preregistered-alpha-research/)
@@ -34,7 +34,7 @@ Pricing (Heston, asiatiques, barrières, put américain, MLMC, grecques AAD) : 4
 <details>
 <summary>English version</summary>
 
-First-year master's student (M1 MBFA) at Université Paris Nanterre, after a bachelor's in MIASHS (applied mathematics and computer science) in Grenoble. **I am looking for an internship or apprenticeship in algorithmic trading or quantitative research.** Six quantitative market-finance projects; each reports its result together with its caveat, and negative results are published.
+MSc (M1) student in Econometrics & Statistics at AMSE (Aix-Marseille School of Economics), ranked 1st of 31 in the final year of a bachelor's in MIASHS (applied mathematics and computer science) in Grenoble. **I am looking for a summer 2027 internship (May – August) in algorithmic trading, quant trading or as a trading assistant.** Six quantitative market-finance projects; each reports its result together with its caveat, and negative results are published.
 
 - **[FX market making](https://github.com/yassine-ek/fx-market-making-simulator)** — Avellaneda-Stoikov and GLFT: Sharpe +5.7 to +36.0 in simulation (upper bound), negative on all 30 variants replayed on real 1-minute EURUSD. *Caveat: the replay mostly measures the fill convention.*
 - **[Optimal execution and TCA](https://github.com/yassine-ek/fx-optimal-execution-tca)** — a 50 M EUR order over 1,037 days: Almgren-Chriss cuts price risk by 1.7× for about twice the TWAP cost. *Caveat: market impact is assumed; 8 fictitious liquidity providers.*
